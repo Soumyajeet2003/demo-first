@@ -1,2 +1,2 @@
 # demo-first
-This is first demo for github
+This is first demo for github.
